@@ -1,7 +1,7 @@
 # Вадим Беглов - Backend Developer CV
 
 ## Контакты
-Telegram: @vadim_fnm
+Telegram: @vadim_fnm  
 Email: jewel.vadim@gmail.com  
 
 ## Опыт работы
